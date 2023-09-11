@@ -1,0 +1,12 @@
+.......Bienvenido al corral......
+
+ Nombre Cliente: Lola 
+ Número Pedido: 6 
+ wrap de pollo 15000
+ combo corral queso 10
+  
+ Precio total sin iva:  15010 
+ Iva incluido:  2853.8 
+  
+ Precio Total:  17863.8 
+ 
